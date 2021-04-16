@@ -16,7 +16,7 @@ You'll need the following installed to run the application successfully:
 
 #### Windows Set up
 
-* `run python3 app.pyw `
+* `run python3 app.pyw ` as administrator
 
 ### Mac & Linux Set up
 * run the following commands
