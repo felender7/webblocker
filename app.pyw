@@ -25,7 +25,11 @@ def machine_type():
 
 # initialise redirect varaible and list of blocked website
 redirect="127.0.0.1"
-website_list=["www.facebook.com","facebook.com","gmail.com", "www.gmail.com"]
+website_list=["www.facebook.com","facebook.com",
+              "twitter.com", "www.twitter.com",
+              "linkedin.com","www.linkedin.com",
+              "tumblr.com","www.tumblr.com",
+              "instagram.com","www.instagram.com"]
 
 path = machine_type()
 while True:
